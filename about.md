@@ -19,6 +19,4 @@ permalink: /about/
 
 
 </div>
-
-
-[email@domain.com](mailto:email@domain.com)
+<br>
