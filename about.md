@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-      <div>
+
+<div>
 <a href="https://www.freelancer.com/affiliates/email/16964365/"><img src="https://cdn2.f-cdn.com/ppic/37651219/logo/16964365/profile_logo_16964365.jpg" style="float: left; margin-right: 20px; margin-bottom:10px; width:50px; max-height: 50px; border-radius: 50%;"></a>
 <div style="min-height:40px;">
     <a style="text-decoration: underline; font-weight: bold;" href="https://www.freelancer.com/affiliates/email/16964365/">Alberto Berroteran</a>
