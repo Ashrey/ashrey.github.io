@@ -30,6 +30,6 @@ El típico "este mes hay mucho trabajo, pero el que viene estarás más relajado
 que impulse un cambio nunca pasará, no es magia.
 
 Y los más importante es confiar en tus capacidades, aprender a superar el [sindrome del impostor](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_impostor). Creo que es una de las cosas que mas cuenta, (o por lo menos,
-en lo personal para mí fue una lucha)
+en lo personal para mí fue una lucha).
 
 ![image](/images/iron-man-troll.jpg "Turn down for what!")
