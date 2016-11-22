@@ -5,9 +5,11 @@ comments: true
 ---
 
 Los últimos meses han sido de total cambio en mi vida. Vivo en el país
-con la inflación más alta del mundo y hace dos meses decidí renunciar a mi empleo. 
+con la inflación más alta del mundo y en medio de todo decidí renunciar a mi empleo. 
 Ante el escenario actual a cualquiera le parecería una locura, pero visto desde mi perspectiva
-la locura era quedarme en un entorno de trabajo estresante, donde no me sentía bien y estaba "quemado".
+la locura era quedarme en un entorno de trabajo estresante, donde no me sentía bien y estaba "quemado"
+(no estaba creciendo profesionalmente). 
+
 No voy a decir que no tuve miedo pero a pesar de todo lo hice, y para ser sinceros, es la mejor decisión que he tomado en mi corta vida (spoilers). 
 
 ## Poder decir adiós es crecer 
@@ -17,7 +19,7 @@ Un salario puede estar bien para algunos, pero para mí no. Y ahí es donde vien
 frase que me hizo cambiar. "El éxito es distinto para cada uno". Hace unos días, hablando con un grupo de colegas en telegram salió la siguiente definición:
 
 > Sexy = "Sentirse seguro de lo que uno está haciendo ante otros" 
-> Exitoso="Tener dinero y trabajo suficiente como para dormir tranquilo, tener pocas o cero deudas y tener tiempo para familia y amigos"
+> Exitoso = "Tener dinero y trabajo suficiente como para dormir tranquilo, tener pocas o cero deudas y tener tiempo para familia y amigos"
 
 ![image](/images/father-nails.jpg "Feeling like this")
 
