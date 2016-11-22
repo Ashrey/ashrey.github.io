@@ -13,12 +13,12 @@ No voy a decir que no tuve miedo pero a pesar de todo lo hice, y para ser sincer
 
 Así dice una canción de Cerati, pero ahora es un lema en mi vida. Hay que aprender a despegarse. 
 Un salario puede estar bien para algunos, pero para mí no. Y ahí es donde viene la primera
-frase que me hizo cambiar. "El éxito es distinto para cada uno"
-
-Hablando con un grupo de colegas en telegra salió la siguiente definición:
+frase que me hizo cambiar. "El éxito es distinto para cada uno". Hace unos días, hablando con un grupo de colegas en telegram salió la siguiente definición:
 
 > Sexy = "Sentirse seguro de lo que uno está haciendo ante otros" 
 > Exitoso="Tener dinero y trabajo suficiente como para dormir tranquilo, tener pocas o cero deudas y tener tiempo para familia y amigos"
+
+![image](/images/father-nails.jpg "Feeling like this")
 
 Yo solo agregaría, que para mí éxito implica que tu medio de subsistencia no sea una obligación, sino que
 debes
